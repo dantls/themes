@@ -1,4 +1,8 @@
 
+<h1 align="center">
+  <img src="https://github.com/dantls/themes/blob/master/src/global/styles/resultado.png" alt="Logo" />
+</h1>
+
 # :pushpin: Tabela de conteúdos
 <!--ts-->
    * [Sobre](#sobre)
